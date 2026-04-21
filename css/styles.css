@@ -603,6 +603,9 @@ progress {
   width: 100%;
   height: 300px;
 }
+.inputs {
+  display: flex;
+}
 
 .list-inline {
   padding-left: 0;
